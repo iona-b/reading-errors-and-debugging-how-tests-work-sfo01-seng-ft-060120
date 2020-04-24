@@ -1,1 +1,2 @@
-# Add your variables here
+# Test 1
+first_number = 2
